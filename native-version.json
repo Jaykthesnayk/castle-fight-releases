@@ -1,9 +1,9 @@
 {
-  "label": "2026.10.15.010715",
+  "label": "2026.10.15.011759",
   "min_app": 3,
   "engine": "4.7.2",
-  "version": 1792026435757,
-  "bytes": 69818436,
-  "sha256": "3e117fb2a08b0d61a31bf01fcea7350d93bbb3b43c607e42c5458ef3756c1cd5",
-  "pack": "https://github.com/Jaykthesnayk/castle-fight-releases/releases/download/game-1792026435757/castle-fight-game.pck"
+  "version": 1792027079596,
+  "bytes": 69819156,
+  "sha256": "9fda996117fa34a0debe4b52611edce68a828a2b9b846760a9bd19361fced0da",
+  "pack": "https://github.com/Jaykthesnayk/castle-fight-releases/releases/download/game-1792027079596/castle-fight-game.pck"
 }
